@@ -1,4 +1,4 @@
-# sibfly-com
+# SibFly
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,155 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sibfly-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sibfly.com/
+SibFly provides satellite‑measured ground motion data for any U.S. address or coordinate. Using NASA Sentinel‑1 radar, the service returns real‑time velocity, seasonal swing, trend, and confidence scores in millimetres per year. It offers a plain REST API with self‑serve API keys, MCP‑ready endpoints, and pay‑per‑call pricing. SibFly targets prop‑tech, insurance, lending, and AI agents, delivering clean JSON without risk models or flood maps.
+
+**Areas:** Geospatial · SatelliteData · RealEstate · PropTech · API
+
+## SibFly on APIs.io
+
+Everything profiled for SibFly is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sibfly-com/](https://apis.io/providers/sibfly-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (25)
+
+- [SibFly Account API](https://apis.io/apis/sibfly-com/sibfly-com-account-api/) — The Account API from SibFly — 1 operation(s) for account.
+- [SibFly Admin API](https://apis.io/apis/sibfly-com/sibfly-com-admin-api/) — The Admin API from SibFly — 10 operation(s) for admin.
+- [SibFly Autonomous API](https://apis.io/apis/sibfly-com/sibfly-com-autonomous-api/) — The Autonomous API from SibFly — 1 operation(s) for autonomous.
+- [SibFly Balance API](https://apis.io/apis/sibfly-com/sibfly-com-balance-api/) — The Balance API from SibFly — 1 operation(s) for balance.
+- [SibFly Buy API](https://apis.io/apis/sibfly-com/sibfly-com-buy-api/) — The Buy API from SibFly — 1 operation(s) for buy.
+- [SibFly Chat API](https://apis.io/apis/sibfly-com/sibfly-com-chat-api/) — The Chat API from SibFly — 1 operation(s) for chat.
+- [SibFly Coverage API](https://apis.io/apis/sibfly-com/sibfly-com-coverage-api/) — The Coverage API from SibFly — 2 operation(s) for coverage.
+- [SibFly Frames API](https://apis.io/apis/sibfly-com/sibfly-com-frames-api/) — The Frames API from SibFly — 2 operation(s) for frames.
+- [SibFly Geocode API](https://apis.io/apis/sibfly-com/sibfly-com-geocode-api/) — The Geocode API from SibFly — 1 operation(s) for geocode.
+- [SibFly Keys API](https://apis.io/apis/sibfly-com/sibfly-com-keys-api/) — The Keys API from SibFly — 2 operation(s) for keys.
+- [SibFly Map API](https://apis.io/apis/sibfly-com/sibfly-com-map-api/) — The Map API from SibFly — 1 operation(s) for map.
+- [SibFly Me API](https://apis.io/apis/sibfly-com/sibfly-com-me-api/) — The Me API from SibFly — 1 operation(s) for me.
+- [SibFly Motion API](https://apis.io/apis/sibfly-com/sibfly-com-motion-api/) — The Motion API from SibFly — 3 operation(s) for motion.
+- [SibFly My Chats API](https://apis.io/apis/sibfly-com/sibfly-com-my-chats-api/) — The My Chats API from SibFly — 2 operation(s) for my chats.
+- [SibFly My Reports API](https://apis.io/apis/sibfly-com/sibfly-com-my-reports-api/) — The My Reports API from SibFly — 3 operation(s) for my reports.
+- [SibFly Pixel API](https://apis.io/apis/sibfly-com/sibfly-com-pixel-api/) — The Pixel API from SibFly — 1 operation(s) for pixel.
+- [SibFly Report.pdf API](https://apis.io/apis/sibfly-com/sibfly-com-report-pdf-api/) — The Report.pdf API from SibFly — 1 operation(s) for report.pdf.
+- [SibFly Schema API](https://apis.io/apis/sibfly-com/sibfly-com-schema-api/) — The Schema API from SibFly — 1 operation(s) for schema.
+- [SibFly SibFly API](https://apis.io/apis/sibfly-com/sibfly-com-sibfly-api-api/) — The SibFly API API from SibFly — 1 operation(s) for sibfly api.
+- [SibFly Support API](https://apis.io/apis/sibfly-com/sibfly-com-support-api/) — The Support API from SibFly — 2 operation(s) for support.
+- [SibFly Usage API](https://apis.io/apis/sibfly-com/sibfly-com-usage-api/) — The Usage API from SibFly — 1 operation(s) for usage.
+- [SibFly Webhooks API](https://apis.io/apis/sibfly-com/sibfly-com-webhooks-api/) — The Webhooks API from SibFly — 2 operation(s) for webhooks.
+- [SibFly X402 API](https://apis.io/apis/sibfly-com/sibfly-com-x402-api/) — The X402 API from SibFly — 1 operation(s) for x402.
+- [SibFly Zhuk Hotel API](https://apis.io/apis/sibfly-com/sibfly-com-zhuk-hotel-api/) — The Zhuk Hotel API from SibFly — 2 operation(s) for zhuk hotel.
+- [SibFly Time Series API](https://apis.io/apis/sibfly-com/sibfly-com-time-series-api/) — The Time Series API from SibFly — 1 operation(s) for time series.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Sibfly Com Webhooks](https://apis.io/asyncapis/sibfly-com/sibfly-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SibFly Agentic Access](https://apis.io/agentic-access/sibfly-com/sibfly-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [Balance](https://apis.io/schemas/sibfly-com/sibfly-com-balance/)
+- [BatchResponse](https://apis.io/schemas/sibfly-com/sibfly-com-batch-response/)
+- [MotionReport](https://apis.io/schemas/sibfly-com/sibfly-com-motion-report/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sibfly Com Context](https://apis.io/jsonld/sibfly-com/sibfly-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SibFly API Rules](https://apis.io/rules/sibfly-com/sibfly-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SibFly Authentication](https://apis.io/security/sibfly-com/sibfly-com-authentication/)
+- [SibFly Domain Security](https://apis.io/security/sibfly-com/sibfly-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SibFly Plans Pricing](https://apis.io/plans/sibfly-com/sibfly-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sibfly.com/)
+- [Documentation](https://sibfly.com/docs)
+- [API reference](https://sibfly.com/openapi.json)
+- [Pricing](https://sibfly.com/pricing)
+- [Sign up](https://sibfly.com/signup)
+- [Terms of service](https://sibfly.com/terms)
+- [Privacy policy](https://sibfly.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 58.3** — strong · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 67.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 73.2 |
+
+**Agent readiness 58.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sibfly-com/](https://apis.io/providers/sibfly-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SibFly: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sibfly-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
